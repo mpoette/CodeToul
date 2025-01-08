@@ -47,24 +47,6 @@ Le jeu de données contient les colonnes suivantes :
 6. Le jeu de données présente-t-il des variables non structurées ?
 7. Au vu de la demande formulée, quelle colonne représente la variable à expliquer ?
 8. Certaines variables vous semblent-t-elles dispensables pour l'analyse ?
-
-## **Première formation :**
-
-1. Qu'est-ce qu'un langage de programmation ?
-2. Comment choisir un langage à apprendre ?
-3. Le duel de la datascience : R vs Python
-4. La donnée :
-    4.1 Différents type de données
-        4.1.1 Numérique / Texte...etc
-        4.1.2 Formalisée / Non formalisée
-    4.2 Qu'est qu'un pipeline de données
-5. Introduction à Python
-    5.1 Installation / version
-    5.2 Qu'est qu'une variable (en programmation)
-    5.3 Qu'est ce qu'une librairie / bibliothèque
-    5.4 Qu'est ce qu'un notebook 
-6. Manipulation de code
-    6.1 Ouverture d'un notebook
     6.2 Cellule de code vs markdown
     6.3 ouvrir un fichier Excel
     6.4 Inspection d'un dataframe (type, forme)
