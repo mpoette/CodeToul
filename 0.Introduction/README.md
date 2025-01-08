@@ -47,7 +47,4 @@ Le jeu de données contient les colonnes suivantes :
 6. Le jeu de données présente-t-il des variables non structurées ?
 7. Au vu de la demande formulée, quelle colonne représente la variable à expliquer ?
 8. Certaines variables vous semblent-t-elles dispensables pour l'analyse ?
-    6.2 Cellule de code vs markdown
-    6.3 ouvrir un fichier Excel
-    6.4 Inspection d'un dataframe (type, forme)
     
